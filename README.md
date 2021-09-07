@@ -4,7 +4,7 @@
       <img src="https://en.bloggif.com/tmp/1b244f5354d1e81637bb1b5165baaf2b/text.gif?1631050856" alt="instagram"/>
     </div>
     <div align="center">
-      <a href="kamyabrouhifar.ca">
+      <a href="www.kamyabrouhifar.ca">
       <img width=30 src="https://user-images.githubusercontent.com/54970142/132417068-2947abe7-2c7c-4e5a-b333-ef12cc4e2244.png" alt="portfolio"/>
       </a>
       <a href="https://www.linkedin.com/in/kamyab-rouhifar/">
