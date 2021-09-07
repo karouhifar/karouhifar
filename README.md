@@ -1,7 +1,5 @@
 ### Basic overview of myself 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React Native Cross-platform Application.
 - 🌱 I’m currently learning AWS, Python.
 - 👯 I’m looking to collaborate on JavaScript Frameworks ( React, Angular).
