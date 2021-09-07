@@ -1,6 +1,6 @@
 ### Basic overview of myself 👋
 
-<!--
+
 **krouhifar/krouhifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Every Information we can find on my [Web portfolio](https://www.kamyabrouhifar.ca)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love roller skating 
--->
+
