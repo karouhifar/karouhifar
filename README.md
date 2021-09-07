@@ -1,6 +1,6 @@
 
 <div>
-    <div>
+    <div align="center">
       <img src="https://en.bloggif.com/tmp/1b244f5354d1e81637bb1b5165baaf2b/text.gif?1631050856" alt="instagram"/>
     </div>
     <div align="center">
