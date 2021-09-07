@@ -4,6 +4,14 @@
 <a href="">
 <img width=30 src="https://user-images.githubusercontent.com/54970142/132416089-2b1e08c5-1f89-42ef-b15b-5028585a2573.png" alt="instagram"/>
 </a>
+<a href="">
+<img width=30 src="https://user-images.githubusercontent.com/54970142/132416598-44dbfa5a-bad1-4808-b089-5c93eeac6495.png" alt="LinkedIn"/>
+</a>
+<a href="">
+<img width=30 src="https://user-images.githubusercontent.com/54970142/132416546-f0bca6a2-c581-49a5-81ec-26b9ef9b314c.png" alt="WhatsApp"/>
+</a>
+
+
 
 ### Basic overview of myself 👋
 
