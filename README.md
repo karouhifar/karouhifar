@@ -1,3 +1,7 @@
+
+
+(https://en.bloggif.com/tmp/e3540b473f1fc9ccaf9c69e223578215/text.gif?1631050513)
+
 ### Basic overview of myself 👋
 
 - 🔭 I’m currently working on React Native Cross-platform Application.
