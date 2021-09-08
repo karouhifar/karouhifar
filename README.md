@@ -20,13 +20,13 @@
 
 ### Basic overview of myself 👋
 
-- 🔭 I’m currently working on React Native Cross-platform Application.
-- 🌱 I’m currently learning AWS, Python.
+- 🔭 I’m currently working on React Native Cross-platform applications.
+- 🌱 I’m currently learning AWS and Python.
 - 👯 I’m looking to collaborate on JavaScript Frameworks ( React, Angular).
-- 🤔 I’m looking for help with AWS.
+- 🤔 I’m looking to get help with AWS.
 - 💬 Ask me about anything related to JavaScript programming issues.
-- 📫 How to reach me: Every Information we can find on my [Web portfolio](https://www.kamyabrouhifar.ca)
+- 📫 How to reach me: You can find my contact information at [Web portfolio](https://www.kamyabrouhifar.ca)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love roller skating 
+- ⚡ Fun fact: I love roller skating.
 
 ### You can check my portfolio and blog web by clicking on these buttons <a href="https://kamyabrouhifar.ca/">![Web portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?logo=Webflow)</a> <a href="https://karouhifar.blogspot.com/">![Web blog](https://img.shields.io/badge/-Blog-black?logo=blogger)</a> respectively.
