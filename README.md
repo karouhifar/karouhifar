@@ -29,4 +29,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love roller skating 
 
-### You can check my portfolio and blog web by clicking on these buttons ![Web portfolio](https://img.shields.io/badge/-Portfolio-brightgreen) "" respectively.
+### You can check my portfolio and blog web by clicking on these buttons ![Web portfolio](https://img.shields.io/badge/-Portfolio-brightgreen) ![Web blog](https://img.shields.io/badge/-Blog-orange) respectively.
