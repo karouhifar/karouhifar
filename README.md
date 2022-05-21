@@ -1,7 +1,7 @@
 
 <div>
     <div align="center">
-      <img src="https://i.ibb.co/2qcF3Np/text.gif" alt="instagram"/>
+      <video src="https://i.ibb.co/2qcF3Np/text.gif" alt="instagram"/>
     </div>
     <div align="center">
       <a href="https://www.kamyabrouhifar.ca">
