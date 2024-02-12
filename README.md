@@ -15,22 +15,22 @@
       </a>
     </div>
 </div>
-
+n
 
 
 ### Basic overview of myself 👋
 
-- 🔭 I’m currently working on React Native Cross-platform applications.
+- 🔭 I’m currently working on Native Ingestion Enterprise data hub applications.
 - 🌱 I’m currently learning AWS and Python.
-- 👯 I’m looking to collaborate on JavaScript Frameworks ( React, Angular).
+- 👯 I’m looking to collaborate on JavaScript and Python Frameworks ( React, Angular, Djunga).
 - 🤔 I’m looking to get help with AWS.
-- 💬 Ask me about anything related to JavaScript programming issues.
+- 💬 Ask me about anything related to JavaScript/Python programming issues.
 - 📫 How to reach me: You can find my contact information at [Web portfolio](https://www.kamyabrouhifar.ca)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love roller skating.
 
 
-### You can check my portfolio and blog web by clicking on these buttons <a href="https://kamyabrouhifar.ca/">![Web portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?logo=Webflow)</a> <a href="https://karouhifar.blogspot.com/">![Web blog](https://img.shields.io/badge/-Blog-black?logo=blogger)</a> respectively.
+### You can check my portfolio and blog web by clicking on these buttons <a href="https://kamyabrouhifar.ca/">![Web portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?logo=Webflow)</a> <a href="https://medium.com/@karouhifar">![Web blog](https://img.shields.io/badge/-Blog-black?logo=blogger)</a> respectively.
 <br/>
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/54970142/173195178-583f0f81-4986-4a7d-b8f2-967706078bc7.png"  alt="activity code"/>
