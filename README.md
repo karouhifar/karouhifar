@@ -32,6 +32,3 @@
 
 ### You can check my portfolio and blog web by clicking on these buttons <a href="https://kamyabrouhifar.ca/">![Web portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?logo=Webflow)</a> <a href="https://medium.com/@karouhifar">![Web blog](https://img.shields.io/badge/-Blog-black?logo=blogger)</a> respectively.
 <br/>
-<div align='center'>
-<img src="https://user-images.githubusercontent.com/54970142/173195178-583f0f81-4986-4a7d-b8f2-967706078bc7.png"  alt="activity code"/>
-</div>
